@@ -25,7 +25,6 @@ This project was tested using Wokwi simulator.
 3. Run the simulation
 
 ## 📸 Preview
-(Add your screenshot here)
 
 ## 🔗 Author
-Your Name
+NGABONZIZA Pontien
