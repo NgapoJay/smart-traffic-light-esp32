@@ -56,6 +56,3 @@ This project was tested using Wokwi simulator.
 
 ## 🔗 Author
 NGABONZIZA Pontien
-
-## 🔗 Author
-NGABONZIZA Pontien
