@@ -52,7 +52,7 @@ This project was tested using Wokwi simulator.
 3. Run the simulation
 
 ## 📸 Preview
-/home/ngapo/Downloads/Wokwi_SmartCity_TrafficLIGHT.mp4
+https://github.com/NgapoJay/smart-traffic-light-esp32/blob/main/WOKWI_SmartCITY_TrafficLIGHT.mp4
 
 ## 🔗 Author
 NGABONZIZA Pontien
